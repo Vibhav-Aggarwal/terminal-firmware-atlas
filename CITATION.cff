@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this guide or taxonomy, please cite it using the metadata below."
+type: software
+title: "Terminal Firmware Atlas: Open Identification Matrix & Architecture Reference for Biometric Devices"
+abstract: "Open hardware identification matrix, OEM taxonomy, and integration decision guide for biometric attendance and access control terminals across Asian and Indian markets."
+authors:
+  - family-names: Aggarwal
+    given-names: Vibhav
+    orcid: "https://orcid.org/0009-0000-7686-7119"
+    affiliation: "Independent Researcher, Gurugram, India"
+version: 1.1.0
+date-released: "2026-05-03"
+license: Apache-2.0
+repository-code: "https://github.com/Vibhav-Aggarwal/terminal-firmware-atlas"
+keywords:
+  - biometric-terminals
+  - hardware-atlas
+  - reverse-engineering
+  - access-control
+  - zkteco
+  - ebkn

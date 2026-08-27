@@ -1,0 +1,35 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "identifier": "terminal-firmware-atlas",
+  "name": "Terminal Firmware Atlas",
+  "description": "Open hardware identification matrix, OEM taxonomy, and integration decision guide for biometric attendance and access control terminals.",
+  "license": "https://spdx.org/licenses/Apache-2.0",
+  "programmingLanguage": [
+    "Markdown",
+    "Python",
+    "Shell"
+  ],
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Vibhav",
+      "familyName": "Aggarwal",
+      "@id": "https://orcid.org/0009-0000-7686-7119"
+    }
+  ],
+  "codeRepository": "https://github.com/Vibhav-Aggarwal/terminal-firmware-atlas",
+  "issueTracker": "https://github.com/Vibhav-Aggarwal/terminal-firmware-atlas/issues",
+  "keywords": [
+    "biometric",
+    "firmware",
+    "zkteco",
+    "realand",
+    "ebkn",
+    "essl",
+    "secureye",
+    "reverse-engineering",
+    "access-control",
+    "iot-hardware"
+  ]
+}
